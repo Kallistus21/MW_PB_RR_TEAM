@@ -1,4 +1,4 @@
-This repository contains the code, data and a report on our attempt of reproducing the study of an article titled
+This repository contains the code, data and a report on our attempt of reproducing a study from an article titled
 
 "Reduction of Information Asymmetry in the Used Car Market Using the Random Forest Method"
 
